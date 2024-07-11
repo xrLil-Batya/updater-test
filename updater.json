@@ -1,0 +1,6 @@
+{
+	"11.07.2024 16:16:31": ["testfile1.bin", "testfile2.bin"],
+	"11.07.2024 16:15:31": ["testfile1.bin"],
+	"11.07.2024 16:14:31": ["testfile2.bin"],
+	"all": ["testfile1.bin", "testfile2.bin"]
+}
